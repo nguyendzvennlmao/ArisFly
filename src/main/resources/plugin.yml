@@ -1,7 +1,0 @@
-name: ArisFly
-version: 1.0
-main: me.arismc.ArisFly
-api-version: 1.20
-depend: [WorldGuard]
-author: nguyendz
-description: Plugin cho phép bay trong vùng chỉ định trên ArisMC.
