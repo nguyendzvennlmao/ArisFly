@@ -1,6 +1,0 @@
-name: ArisFly
-version: 1.0
-main: me.arismc.ArisFly
-api-version: 1.20
-author: ArisMC
-depend: [WorldGuard]
